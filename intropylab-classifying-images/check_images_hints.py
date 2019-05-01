@@ -29,7 +29,7 @@
 #    python check_images_hints.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 ##
 
-#this is a test  
+#this is a test  2
 
 # Imports python modules
 import argparse

@@ -10,6 +10,7 @@ This repository contains code and associated files for the AI Programming with P
     * [Linear Mapping](https://github.com/udacity/AIPND/tree/master/linearalgebra-linear_mapping "Linear Mapping Labs") Learn how to solve some problems computationally using vectors and matrices.
 ### Programming Labs
 * [Intro to Python Lab - Classifying Images Lab:](https://github.com/udacity/AIPND/tree/master/intropylab-classifying-images "Classifying Images Lab") Determine which CNN architecture model works best at classifying images of dogs and their breeds.
+* KM Note: main file is check_images_hints.py
 
 ### NumPy and Pandas Mini-Projects
 * [NumPy Mini-Project](https://github.com/udacity/AIPND/tree/master/NumPy%20Mini-Project) Mean normalize and separate data
@@ -28,4 +29,3 @@ Each directory has a `requirements.txt` describing the minimal dependencies requ
 ### pip
 
 To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
-
